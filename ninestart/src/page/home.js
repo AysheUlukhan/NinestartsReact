@@ -95,7 +95,15 @@ const Home = () => {
         </div>
       </div>
 
-      
+      <div className='w-full'>
+      <div className='text-center pt-5'>
+          <h2 className='text-blackShadows text-2xl font-bold'>Portfolio</h2>
+          <p className='text-darkPuce text-3xl font-bold'>Check out our beautifull portfolio</p>
+          <hr class="w-16 h-0.5 mx-auto my-5 bg-halloweenOrange border-0 rounded dark:bg-gray-700" />
+        </div>
+      </div>
+
+
     </div>
   )
 }
